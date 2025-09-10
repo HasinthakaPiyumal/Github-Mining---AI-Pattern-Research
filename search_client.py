@@ -61,7 +61,8 @@ class GitHubSearchClient:
         if self.recent_push_date:
             parts.append(f"pushed:>{self.recent_push_date}")
         if self.topics:
-            parts.extend([f"topic:{topic}" for topic in self.topics])
+            topics = ",".join(self.topics)
+            parts.append(f"topic:{topics}")
 
         return " ".join(parts).strip()
 

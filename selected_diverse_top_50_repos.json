@@ -1,0 +1,791 @@
+[
+  {
+    "full_name": "huggingface/transformers",
+    "stars": 149380,
+    "svn_url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "topics": [
+      "nlp",
+      "natural-language-processing",
+      "pytorch",
+      "pytorch-transformers",
+      "transformer",
+      "model-hub",
+      "pretrained-models",
+      "speech-recognition",
+      "hacktoberfest",
+      "python",
+      "machine-learning",
+      "deep-learning",
+      "audio",
+      "deepseek",
+      "gemma",
+      "glm",
+      "llm",
+      "qwen",
+      "vlm"
+    ],
+    "owner": "https://github.com/huggingface"
+  },
+  {
+    "full_name": "binary-husky/gpt_academic",
+    "stars": 69213,
+    "svn_url": "https://github.com/binary-husky/gpt_academic",
+    "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+    "topics": [
+      "academic",
+      "chatglm-6b",
+      "chatgpt",
+      "large-language-models",
+      "gpt-4"
+    ],
+    "owner": "https://github.com/binary-husky"
+  },
+  {
+    "full_name": "labmlai/annotated_deep_learning_paper_implementations",
+    "stars": 63114,
+    "svn_url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "topics": [
+      "deep-learning",
+      "deep-learning-tutorial",
+      "pytorch",
+      "gan",
+      "transformers",
+      "reinforcement-learning",
+      "optimizers",
+      "neural-networks",
+      "transformer",
+      "machine-learning",
+      "attention",
+      "literate-programming",
+      "lora"
+    ],
+    "owner": "https://github.com/labmlai"
+  },
+  {
+    "full_name": "FoundationAgents/MetaGPT",
+    "stars": 58332,
+    "svn_url": "https://github.com/FoundationAgents/MetaGPT",
+    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "topics": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "owner": "https://github.com/FoundationAgents"
+  },
+  {
+    "full_name": "hiyouga/LLaMA-Factory",
+    "stars": 57789,
+    "svn_url": "https://github.com/hiyouga/LLaMA-Factory",
+    "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+    "topics": [
+      "fine-tuning",
+      "llama",
+      "llm",
+      "peft",
+      "transformers",
+      "rlhf",
+      "qlora",
+      "quantization",
+      "qwen",
+      "instruction-tuning",
+      "gpt",
+      "lora",
+      "large-language-models",
+      "agent",
+      "ai",
+      "moe",
+      "llama3",
+      "deepseek",
+      "gemma",
+      "nlp"
+    ],
+    "owner": "https://github.com/hiyouga"
+  },
+  {
+    "full_name": "vllm-project/vllm",
+    "stars": 57598,
+    "svn_url": "https://github.com/vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "topics": [
+      "gpt",
+      "llm",
+      "pytorch",
+      "llmops",
+      "mlops",
+      "model-serving",
+      "transformer",
+      "llm-serving",
+      "inference",
+      "llama",
+      "amd",
+      "rocm",
+      "cuda",
+      "inferentia",
+      "trainium",
+      "tpu",
+      "xpu",
+      "hpu",
+      "deepseek",
+      "qwen"
+    ],
+    "owner": "https://github.com/vllm-project"
+  },
+  {
+    "full_name": "roboflow/supervision",
+    "stars": 34700,
+    "svn_url": "https://github.com/roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "topics": [
+      "computer-vision",
+      "image-processing",
+      "python",
+      "yolo",
+      "instance-segmentation",
+      "object-detection",
+      "tracking",
+      "video-processing",
+      "coco",
+      "pascal-voc",
+      "deep-learning",
+      "metrics",
+      "machine-learning",
+      "pytorch",
+      "tensorflow",
+      "classification",
+      "oriented-bounding-box",
+      "low-code",
+      "hacktoberfest"
+    ],
+    "owner": "https://github.com/roboflow"
+  },
+  {
+    "full_name": "huggingface/diffusers",
+    "stars": 30685,
+    "svn_url": "https://github.com/huggingface/diffusers",
+    "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+    "topics": [
+      "deep-learning",
+      "diffusion",
+      "image-generation",
+      "pytorch",
+      "score-based-generative-modeling",
+      "image2image",
+      "text2image",
+      "stable-diffusion",
+      "stable-diffusion-diffusers",
+      "latent-diffusion-models",
+      "flux",
+      "image2video",
+      "text2video",
+      "video2video",
+      "qwen-image"
+    ],
+    "owner": "https://github.com/huggingface"
+  },
+  {
+    "full_name": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "stars": 25387,
+    "svn_url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "description": "deep learning for image processing including classification and object-detection etc.",
+    "topics": [
+      "pytorch",
+      "tensorflow2",
+      "classification",
+      "object-detection",
+      "bilibili",
+      "deep-learning",
+      "segmentation"
+    ],
+    "owner": "https://github.com/WZMIAOMIAO"
+  },
+  {
+    "full_name": "graphdeco-inria/gaussian-splatting",
+    "stars": 18408,
+    "svn_url": "https://github.com/graphdeco-inria/gaussian-splatting",
+    "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+    "topics": [
+      "computer-graphics",
+      "computer-vision",
+      "radiance-field"
+    ],
+    "owner": "https://github.com/graphdeco-inria"
+  },
+  {
+    "full_name": "pytorch/vision",
+    "stars": 17127,
+    "svn_url": "https://github.com/pytorch/vision",
+    "description": "Datasets, Transforms and Models specific to Computer Vision",
+    "topics": [
+      "computer-vision",
+      "machine-learning"
+    ],
+    "owner": "https://github.com/pytorch"
+  },
+  {
+    "full_name": "albumentations-team/albumentations",
+    "stars": 15136,
+    "svn_url": "https://github.com/albumentations-team/albumentations",
+    "description": "Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125",
+    "topics": [
+      "image-augmentation",
+      "machine-learning",
+      "augmentation",
+      "deep-learning",
+      "detection",
+      "fast-augmentations",
+      "segmentation",
+      "image-segmentation",
+      "image-processing",
+      "image-classification",
+      "python",
+      "object-detection"
+    ],
+    "owner": "https://github.com/albumentations-team"
+  },
+  {
+    "full_name": "coqui-ai/TTS",
+    "stars": 42496,
+    "svn_url": "https://github.com/coqui-ai/TTS",
+    "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "topics": [
+      "python",
+      "text-to-speech",
+      "deep-learning",
+      "speech",
+      "pytorch",
+      "tts",
+      "vocoder",
+      "tacotron",
+      "glow-tts",
+      "melgan",
+      "speaker-encoder",
+      "hifigan",
+      "speaker-encodings",
+      "multi-speaker-tts",
+      "tts-model",
+      "speech-synthesis",
+      "voice-cloning",
+      "voice-synthesis",
+      "voice-conversion"
+    ],
+    "owner": "https://github.com/coqui-ai"
+  },
+  {
+    "full_name": "Anjok07/ultimatevocalremovergui",
+    "stars": 21839,
+    "svn_url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "description": " GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "topics": [
+      "vocal-remover",
+      "pytorch",
+      "source",
+      "separation",
+      "kareokee",
+      "karaoke",
+      "spectrogram",
+      "instrumental",
+      "vocal",
+      "vocals",
+      "audio",
+      "music"
+    ],
+    "owner": "https://github.com/Anjok07"
+  },
+  {
+    "full_name": "nari-labs/dia",
+    "stars": 18289,
+    "svn_url": "https://github.com/nari-labs/dia",
+    "description": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+    "topics": [
+      "ai",
+      "open-weight",
+      "text-to-speech"
+    ],
+    "owner": "https://github.com/nari-labs"
+  },
+  {
+    "full_name": "m-bain/whisperX",
+    "stars": 17674,
+    "svn_url": "https://github.com/m-bain/whisperX",
+    "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+    "topics": [
+      "asr",
+      "speech",
+      "speech-recognition",
+      "speech-to-text",
+      "whisper"
+    ],
+    "owner": "https://github.com/m-bain"
+  },
+  {
+    "full_name": "nl8590687/ASRT_SpeechRecognition",
+    "stars": 8222,
+    "svn_url": "https://github.com/nl8590687/ASRT_SpeechRecognition",
+    "description": "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统",
+    "topics": [
+      "tensorflow",
+      "cnn",
+      "ctc",
+      "python",
+      "keras",
+      "speech-recognition",
+      "speech-to-text",
+      "chinese-speech-recognition",
+      "asrt",
+      "python3"
+    ],
+    "owner": "https://github.com/nl8590687"
+  },
+  {
+    "full_name": "zzw922cn/Automatic_Speech_Recognition",
+    "stars": 2843,
+    "svn_url": "https://github.com/zzw922cn/Automatic_Speech_Recognition",
+    "description": "End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow ",
+    "topics": [
+      "automatic-speech-recognition",
+      "tensorflow",
+      "timit-dataset",
+      "feature-vector",
+      "phonemes",
+      "data-preprocessing",
+      "rnn",
+      "audio",
+      "deep-learning",
+      "lstm",
+      "end-to-end",
+      "cnn",
+      "rnn-encoder-decoder",
+      "evaluation",
+      "paper",
+      "speech-recognition",
+      "layer-normalization",
+      "chinese-speech-recognition"
+    ],
+    "owner": "https://github.com/zzw922cn"
+  },
+  {
+    "full_name": "OpenBB-finance/OpenBB",
+    "stars": 52108,
+    "svn_url": "https://github.com/OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.",
+    "topics": [
+      "python",
+      "machine-learning",
+      "finance",
+      "stocks",
+      "quantitative-finance",
+      "economics",
+      "crypto",
+      "openbb",
+      "ai",
+      "derivatives",
+      "equity",
+      "fixed-income",
+      "options"
+    ],
+    "owner": "https://github.com/OpenBB-finance"
+  },
+  {
+    "full_name": "eriklindernoren/ML-From-Scratch",
+    "stars": 28335,
+    "svn_url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "topics": [
+      "machine-learning",
+      "deep-learning",
+      "deep-reinforcement-learning",
+      "machine-learning-from-scratch",
+      "data-science",
+      "data-mining",
+      "genetic-algorithm"
+    ],
+    "owner": "https://github.com/eriklindernoren"
+  },
+  {
+    "full_name": "camel-ai/owl",
+    "stars": 18024,
+    "svn_url": "https://github.com/camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "topics": [
+      "agent",
+      "artificial-intelligence",
+      "multi-agent-systems",
+      "task-automation",
+      "web-interaction"
+    ],
+    "owner": "https://github.com/camel-ai"
+  },
+  {
+    "full_name": "ddbourgin/numpy-ml",
+    "stars": 16139,
+    "svn_url": "https://github.com/ddbourgin/numpy-ml",
+    "description": "Machine learning, in numpy",
+    "topics": [
+      "machine-learning",
+      "neural-networks",
+      "topic-modeling",
+      "gaussian-mixture-models",
+      "hidden-markov-models",
+      "gradient-boosting",
+      "bayesian-inference",
+      "wavenet",
+      "vae",
+      "resnet",
+      "lstm",
+      "wgan-gp",
+      "attention",
+      "reinforcement-learning",
+      "good-turing-smoothing",
+      "knn",
+      "mfcc",
+      "gaussian-processes",
+      "word2vec"
+    ],
+    "owner": "https://github.com/ddbourgin"
+  },
+  {
+    "full_name": "ShangtongZhang/reinforcement-learning-an-introduction",
+    "stars": 14285,
+    "svn_url": "https://github.com/ShangtongZhang/reinforcement-learning-an-introduction",
+    "description": "Python Implementation of Reinforcement Learning: An Introduction",
+    "topics": [
+      "reinforcement-learning",
+      "artificial-intelligence"
+    ],
+    "owner": "https://github.com/ShangtongZhang"
+  },
+  {
+    "full_name": "hesreallyhim/awesome-claude-code",
+    "stars": 13776,
+    "svn_url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "description": "A curated list of awesome commands, files, and workflows for Claude Code",
+    "topics": [
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-resources",
+      "claude",
+      "claude-code",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows",
+      "coding-agent",
+      "coding-agents",
+      "coding-assistant"
+    ],
+    "owner": "https://github.com/hesreallyhim"
+  },
+  {
+    "full_name": "recommenders-team/recommenders",
+    "stars": 20847,
+    "svn_url": "https://github.com/recommenders-team/recommenders",
+    "description": "Best Practices on Recommendation Systems",
+    "topics": [
+      "machine-learning",
+      "recommender",
+      "ranking",
+      "deep-learning",
+      "python",
+      "jupyter-notebook",
+      "recommendation-algorithm",
+      "rating",
+      "operationalization",
+      "kubernetes",
+      "recommendation-system",
+      "recommendation-engine",
+      "recommendation",
+      "data-science",
+      "tutorial",
+      "artificial-intelligence",
+      "ai"
+    ],
+    "owner": "https://github.com/recommenders-team"
+  },
+  {
+    "full_name": "benfred/implicit",
+    "stars": 3707,
+    "svn_url": "https://github.com/benfred/implicit",
+    "description": "Fast Python Collaborative Filtering for Implicit Feedback Datasets",
+    "topics": [
+      "collaborative-filtering",
+      "machine-learning",
+      "matrix-factorization",
+      "recommender-system",
+      "recommendation-system",
+      "recommendation"
+    ],
+    "owner": "https://github.com/benfred"
+  },
+  {
+    "full_name": "pytorch/torchrec",
+    "stars": 2334,
+    "svn_url": "https://github.com/pytorch/torchrec",
+    "description": "Pytorch domain library for recommendation systems",
+    "topics": [
+      "pytorch",
+      "gpu",
+      "deep-learning",
+      "cuda",
+      "recommender-system",
+      "recommendation-system",
+      "sharding"
+    ],
+    "owner": "https://github.com/pytorch"
+  },
+  {
+    "full_name": "hpcaitech/ColossalAI",
+    "stars": 41147,
+    "svn_url": "https://github.com/hpcaitech/ColossalAI",
+    "description": "Making large AI models cheaper, faster and more accessible",
+    "topics": [
+      "deep-learning",
+      "hpc",
+      "large-scale",
+      "data-parallelism",
+      "pipeline-parallelism",
+      "model-parallelism",
+      "ai",
+      "big-model",
+      "distributed-computing",
+      "inference",
+      "heterogeneous-training",
+      "foundation-models"
+    ],
+    "owner": "https://github.com/hpcaitech"
+  },
+  {
+    "full_name": "deepspeedai/DeepSpeed",
+    "stars": 40049,
+    "svn_url": "https://github.com/deepspeedai/DeepSpeed",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "topics": [
+      "deep-learning",
+      "pytorch",
+      "gpu",
+      "machine-learning",
+      "billion-parameters",
+      "data-parallelism",
+      "model-parallelism",
+      "inference",
+      "pipeline-parallelism",
+      "compression",
+      "mixture-of-experts",
+      "trillion-parameters",
+      "zero"
+    ],
+    "owner": "https://github.com/deepspeedai"
+  },
+  {
+    "full_name": "marimo-team/marimo",
+    "stars": 15808,
+    "svn_url": "https://github.com/marimo-team/marimo",
+    "description": "Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native editor (or your own).",
+    "topics": [
+      "notebooks",
+      "python",
+      "data-science",
+      "machine-learning",
+      "artificial-intelligence",
+      "data-visualization",
+      "developer-tools",
+      "reactive",
+      "pipeline",
+      "web-app",
+      "dag",
+      "dataflow",
+      "sql"
+    ],
+    "owner": "https://github.com/marimo-team"
+  },
+  {
+    "full_name": "microsoft/nni",
+    "stars": 14268,
+    "svn_url": "https://github.com/microsoft/nni",
+    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "topics": [
+      "automl",
+      "deep-learning",
+      "neural-architecture-search",
+      "hyperparameter-optimization",
+      "distributed",
+      "bayesian-optimization",
+      "automated-machine-learning",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "data-science",
+      "tensorflow",
+      "pytorch",
+      "neural-network",
+      "deep-neural-network",
+      "model-compression",
+      "feature-engineering",
+      "nas",
+      "python",
+      "hyperparameter-tuning",
+      "mlops"
+    ],
+    "owner": "https://github.com/microsoft"
+  },
+  {
+    "full_name": "mage-ai/mage-ai",
+    "stars": 8462,
+    "svn_url": "https://github.com/mage-ai/mage-ai",
+    "description": "🧙 Build, run, and manage data pipelines for integrating and transforming data.",
+    "topics": [
+      "machine-learning",
+      "artificial-intelligence",
+      "data",
+      "data-engineering",
+      "data-science",
+      "python",
+      "elt",
+      "etl",
+      "pipelines",
+      "data-pipelines",
+      "orchestration",
+      "data-integration",
+      "sql",
+      "spark",
+      "dbt",
+      "pipeline",
+      "reverse-etl",
+      "transformation"
+    ],
+    "owner": "https://github.com/mage-ai"
+  },
+  {
+    "full_name": "kelvins/awesome-mlops",
+    "stars": 4716,
+    "svn_url": "https://github.com/kelvins/awesome-mlops",
+    "description": ":sunglasses: A curated list of awesome MLOps tools",
+    "topics": [
+      "awesome",
+      "machine-learning",
+      "machine-learning-engineering",
+      "mle",
+      "mlops",
+      "data-science",
+      "ml",
+      "ai"
+    ],
+    "owner": "https://github.com/kelvins"
+  },
+  {
+    "full_name": "deepchem/deepchem",
+    "stars": 6195,
+    "svn_url": "https://github.com/deepchem/deepchem",
+    "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+    "topics": [
+      "drug-discovery",
+      "quantum-chemistry",
+      "deep-learning",
+      "biology",
+      "materials-science",
+      "hacktoberfest"
+    ],
+    "owner": "https://github.com/deepchem"
+  },
+  {
+    "full_name": "pytorch/pytorch",
+    "stars": 93062,
+    "svn_url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "topics": [
+      "neural-network",
+      "autograd",
+      "gpu",
+      "numpy",
+      "deep-learning",
+      "tensor",
+      "python",
+      "machine-learning"
+    ],
+    "owner": "https://github.com/pytorch"
+  },
+  {
+    "full_name": "keras-team/keras",
+    "stars": 63400,
+    "svn_url": "https://github.com/keras-team/keras",
+    "description": "Deep Learning for humans",
+    "topics": [
+      "deep-learning",
+      "tensorflow",
+      "neural-networks",
+      "machine-learning",
+      "data-science",
+      "python",
+      "jax",
+      "pytorch"
+    ],
+    "owner": "https://github.com/keras-team"
+  },
+  {
+    "full_name": "scikit-learn/scikit-learn",
+    "stars": 63290,
+    "svn_url": "https://github.com/scikit-learn/scikit-learn",
+    "description": "scikit-learn: machine learning in Python",
+    "topics": [
+      "machine-learning",
+      "python",
+      "statistics",
+      "data-science",
+      "data-analysis"
+    ],
+    "owner": "https://github.com/scikit-learn"
+  },
+  {
+    "full_name": "gradio-app/gradio",
+    "stars": 39814,
+    "svn_url": "https://github.com/gradio-app/gradio",
+    "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+    "topics": [
+      "machine-learning",
+      "models",
+      "ui",
+      "ui-components",
+      "interface",
+      "python",
+      "data-science",
+      "data-visualization",
+      "deep-learning",
+      "data-analysis",
+      "gradio",
+      "gradio-interface",
+      "python-notebook",
+      "deploy",
+      "hacktoberfest"
+    ],
+    "owner": "https://github.com/gradio-app"
+  },
+  {
+    "full_name": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "stars": 39259,
+    "svn_url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "topics": [
+      "deep-learning"
+    ],
+    "owner": "https://github.com/floodsung"
+  },
+  {
+    "full_name": "yunjey/pytorch-tutorial",
+    "stars": 31699,
+    "svn_url": "https://github.com/yunjey/pytorch-tutorial",
+    "description": "PyTorch Tutorial for Deep Learning Researchers",
+    "topics": [
+      "deep-learning",
+      "pytorch-tutorial",
+      "neural-networks",
+      "pytorch"
+    ],
+    "owner": "https://github.com/yunjey"
+  }
+]

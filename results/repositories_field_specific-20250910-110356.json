@@ -1,0 +1,650 @@
+[
+    {
+        "full_name": "OpenBB-finance/OpenBB",
+        "stars": 52108,
+        "svn_url": "https://github.com/OpenBB-finance/OpenBB",
+        "description": "Financial data platform for analysts, quants and AI agents.",
+        "topics": [
+            "python",
+            "machine-learning",
+            "finance",
+            "stocks",
+            "quantitative-finance",
+            "economics",
+            "crypto",
+            "openbb",
+            "ai",
+            "derivatives",
+            "equity",
+            "fixed-income",
+            "options"
+        ],
+        "owner": "https://github.com/OpenBB-finance"
+    },
+    {
+        "full_name": "google/tf-quant-finance",
+        "stars": 4977,
+        "svn_url": "https://github.com/google/tf-quant-finance",
+        "description": "High-performance TensorFlow library for quantitative finance.",
+        "topics": [
+            "tensorflow",
+            "quantitative-finance",
+            "python",
+            "finance",
+            "numerical-methods",
+            "numerical-optimization",
+            "numerical-integration",
+            "high-performance",
+            "high-performance-computing",
+            "gpu",
+            "gpu-computing",
+            "quantlib"
+        ],
+        "owner": "https://github.com/google"
+    },
+    {
+        "full_name": "Project-MONAI/MONAI",
+        "stars": 6797,
+        "svn_url": "https://github.com/Project-MONAI/MONAI",
+        "description": "AI Toolkit for Healthcare Imaging",
+        "topics": [
+            "healthcare-imaging",
+            "deep-learning",
+            "medical-image-computing",
+            "medical-image-processing",
+            "pytorch",
+            "python3",
+            "monai"
+        ],
+        "owner": "https://github.com/Project-MONAI"
+    },
+    {
+        "full_name": "TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+        "stars": 3898,
+        "svn_url": "https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+        "description": "A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.",
+        "topics": [
+            "machine-learning",
+            "deep-learning",
+            "tensorflow",
+            "python",
+            "pytorch",
+            "keras",
+            "lua",
+            "matplotlib",
+            "aws",
+            "kaggle",
+            "pandas",
+            "scikit-learn",
+            "torch",
+            "artificial-intelligence",
+            "neural-network",
+            "convolutional-neural-networks",
+            "tensorflow-tutorials",
+            "python-data",
+            "ipython-notebook",
+            "capsule-network"
+        ],
+        "owner": "https://github.com/TarrySingh"
+    },
+    {
+        "full_name": "SerpentAI/SerpentAI",
+        "stars": 6927,
+        "svn_url": "https://github.com/SerpentAI/SerpentAI",
+        "description": "Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!",
+        "topics": [
+            "python",
+            "video-games",
+            "artificial-intelligence",
+            "machine-learning",
+            "computer-vision",
+            "framework",
+            "deep-learning"
+        ],
+        "owner": "https://github.com/SerpentAI"
+    },
+    {
+        "full_name": "google-research/football",
+        "stars": 3488,
+        "svn_url": "https://github.com/google-research/football",
+        "description": "Check out the new game server:",
+        "topics": [
+            "reinforcement-learning",
+            "reinforcement-learning-environments"
+        ],
+        "owner": "https://github.com/google-research"
+    },
+    {
+        "full_name": "chuyangliu/snake",
+        "stars": 1723,
+        "svn_url": "https://github.com/chuyangliu/snake",
+        "description": "Artificial intelligence for the Snake game.",
+        "topics": [
+            "snake",
+            "game",
+            "artificial-intelligence",
+            "graph-theory",
+            "algorithm",
+            "python",
+            "deep-reinforcement-learning",
+            "reinforcement-learning",
+            "ai",
+            "snake-ai"
+        ],
+        "owner": "https://github.com/chuyangliu"
+    },
+    {
+        "full_name": "firerpa/lamda",
+        "stars": 7264,
+        "svn_url": "https://github.com/firerpa/lamda",
+        "description": " The most powerful Android RPA agent framework, next generation of mobile automation robots.",
+        "topics": [
+            "adb",
+            "android",
+            "frida",
+            "uiautomation",
+            "appium",
+            "magisk",
+            "reverse-engineering",
+            "xposed",
+            "remote-control",
+            "uiautomator2",
+            "mcp",
+            "agents",
+            "ai",
+            "automation",
+            "mcp-server",
+            "workflow",
+            "dynamic-analysis",
+            "pentesting",
+            "security",
+            "mobile-security"
+        ],
+        "owner": "https://github.com/firerpa"
+    },
+    {
+        "full_name": "wzpan/wukong-robot",
+        "stars": 6970,
+        "svn_url": "https://github.com/wzpan/wukong-robot",
+        "description": "\ud83e\udd16 wukong-robot \u662f\u4e00\u4e2a\u7b80\u5355\u3001\u7075\u6d3b\u3001\u4f18\u96c5\u7684\u4e2d\u6587\u8bed\u97f3\u5bf9\u8bdd\u673a\u5668\u4eba/\u667a\u80fd\u97f3\u7bb1\u9879\u76ee\uff0c\u652f\u6301ChatGPT\u591a\u8f6e\u5bf9\u8bdd\u80fd\u529b\uff0c\u8fd8\u53ef\u80fd\u662f\u9996\u4e2a\u652f\u6301\u8111\u673a\u4ea4\u4e92\u7684\u5f00\u6e90\u667a\u80fd\u97f3\u7bb1\u9879\u76ee\u3002",
+        "topics": [
+            "ai",
+            "speaker",
+            "asr",
+            "tts",
+            "unit",
+            "homeassistant",
+            "raspeberry-pi",
+            "amazon-echo",
+            "alexa",
+            "snowboy",
+            "google-home",
+            "anyq",
+            "muse",
+            "bci",
+            "chatgpt",
+            "gpt3",
+            "openai"
+        ],
+        "owner": "https://github.com/wzpan"
+    },
+    {
+        "full_name": "ARISE-Initiative/robosuite",
+        "stars": 1902,
+        "svn_url": "https://github.com/ARISE-Initiative/robosuite",
+        "description": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
+        "topics": [
+            "robotics",
+            "robot-manipulation",
+            "reinforcement-learning",
+            "physics-simulation",
+            "robot-learning"
+        ],
+        "owner": "https://github.com/ARISE-Initiative"
+    },
+    {
+        "full_name": "SWE-agent/SWE-agent",
+        "stars": 17284,
+        "svn_url": "https://github.com/SWE-agent/SWE-agent",
+        "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] ",
+        "topics": [
+            "agent",
+            "ai",
+            "developer-tools",
+            "llm",
+            "agent-based-model",
+            "lms",
+            "cybersecurity"
+        ],
+        "owner": "https://github.com/SWE-agent"
+    },
+    {
+        "full_name": "aliasrobotics/cai",
+        "stars": 3750,
+        "svn_url": "https://github.com/aliasrobotics/cai",
+        "description": "Cybersecurity AI (CAI), the framework for AI Security",
+        "topics": [
+            "artificial-intelligence",
+            "cybersecurity",
+            "generative-ai",
+            "llm",
+            "pentesting",
+            "framework"
+        ],
+        "owner": "https://github.com/aliasrobotics"
+    },
+    {
+        "full_name": "0x4m4/hexstrike-ai",
+        "stars": 2634,
+        "svn_url": "https://github.com/0x4m4/hexstrike-ai",
+        "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+        "topics": [
+            "0x4m4",
+            "ai",
+            "ai-agents",
+            "ai-cybersecurity",
+            "ai-hacking",
+            "ai-penetration-testing",
+            "ai-security-tool",
+            "artificial-intelligence",
+            "ctf-tools",
+            "generative-ai",
+            "kali-linux",
+            "kali-tools",
+            "llm",
+            "llm-integration",
+            "mcp",
+            "mcp-server",
+            "mcp-tools",
+            "pentesting",
+            "pentesting-tools",
+            "hexstrike"
+        ],
+        "owner": "https://github.com/0x4m4"
+    },
+    {
+        "full_name": "recommenders-team/recommenders",
+        "stars": 20847,
+        "svn_url": "https://github.com/recommenders-team/recommenders",
+        "description": "Best Practices on Recommendation Systems",
+        "topics": [
+            "machine-learning",
+            "recommender",
+            "ranking",
+            "deep-learning",
+            "python",
+            "jupyter-notebook",
+            "recommendation-algorithm",
+            "rating",
+            "operationalization",
+            "kubernetes",
+            "recommendation-system",
+            "recommendation-engine",
+            "recommendation",
+            "data-science",
+            "tutorial",
+            "artificial-intelligence",
+            "ai"
+        ],
+        "owner": "https://github.com/recommenders-team"
+    },
+    {
+        "full_name": "pytorch/torchrec",
+        "stars": 2334,
+        "svn_url": "https://github.com/pytorch/torchrec",
+        "description": "Pytorch domain library for recommendation systems",
+        "topics": [
+            "pytorch",
+            "gpu",
+            "deep-learning",
+            "cuda",
+            "recommender-system",
+            "recommendation-system",
+            "sharding"
+        ],
+        "owner": "https://github.com/pytorch"
+    },
+    {
+        "full_name": "deepset-ai/haystack",
+        "stars": 22167,
+        "svn_url": "https://github.com/deepset-ai/haystack",
+        "description": "AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+        "topics": [
+            "nlp",
+            "question-answering",
+            "pytorch",
+            "semantic-search",
+            "information-retrieval",
+            "summarization",
+            "transformers",
+            "machine-learning",
+            "ai",
+            "python",
+            "large-language-models",
+            "generative-ai",
+            "llm",
+            "rag",
+            "retrieval-augmented-generation",
+            "agents",
+            "agent",
+            "gemini",
+            "gpt-4",
+            "orchestration"
+        ],
+        "owner": "https://github.com/deepset-ai"
+    },
+    {
+        "full_name": "RasaHQ/rasa",
+        "stars": 20665,
+        "svn_url": "https://github.com/RasaHQ/rasa",
+        "description": "\ud83d\udcac   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+        "topics": [
+            "nlp",
+            "machine-learning",
+            "machine-learning-library",
+            "bot",
+            "bots",
+            "botkit",
+            "rasa",
+            "wit",
+            "nlu",
+            "conversational-bots",
+            "conversational-agents",
+            "conversational-ai",
+            "spacy",
+            "mitie",
+            "chatbot",
+            "chatbots",
+            "chatbots-framework",
+            "bot-framework",
+            "natural-language-processing",
+            "conversation-driven-development"
+        ],
+        "owner": "https://github.com/RasaHQ"
+    },
+    {
+        "full_name": "xming521/WeClone",
+        "stars": 15463,
+        "svn_url": "https://github.com/xming521/WeClone",
+        "description": "\ud83d\ude80 One-stop solution for creating your digital avatar from chat history \ud83d\udca1 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  \u4ece\u804a\u5929\u8bb0\u5f55\u521b\u9020\u6570\u5b57\u5206\u8eab\u7684\u4e00\u7ad9\u5f0f\u89e3\u51b3\u65b9\u6848  ",
+        "topics": [
+            "llm",
+            "qwen",
+            "chat-history",
+            "digital-avatar",
+            "telegram"
+        ],
+        "owner": "https://github.com/xming521"
+    },
+    {
+        "full_name": "deeppavlov/DeepPavlov",
+        "stars": 6929,
+        "svn_url": "https://github.com/deeppavlov/DeepPavlov",
+        "description": "An open source library for deep learning end-to-end dialog systems and chatbots.",
+        "topics": [
+            "bot",
+            "nlp",
+            "chatbot",
+            "dialogue-systems",
+            "question-answering",
+            "chitchat",
+            "slot-filling",
+            "intent-classification",
+            "entity-extraction",
+            "named-entity-recognition",
+            "tensorflow",
+            "deep-learning",
+            "deep-neural-networks",
+            "intent-detection",
+            "dialogue-agents",
+            "dialogue-manager",
+            "artificial-intelligence",
+            "ai",
+            "nlp-machine-learning",
+            "machine-learning"
+        ],
+        "owner": "https://github.com/deeppavlov"
+    },
+    {
+        "full_name": "zhayujie/bot-on-anything",
+        "stars": 4124,
+        "svn_url": "https://github.com/zhayujie/bot-on-anything",
+        "description": "A large model-based chatbot builder that can quickly integrate AI models (including ChatGPT, Claude, Gemini) into various software applications (such as Telegram, Gmail, Slack, and websites).",
+        "topics": [
+            "chatgpt",
+            "gmail",
+            "telegram",
+            "slack",
+            "web",
+            "claude",
+            "gemini"
+        ],
+        "owner": "https://github.com/zhayujie"
+    },
+    {
+        "full_name": "Conchylicultor/DeepQA",
+        "stars": 2924,
+        "svn_url": "https://github.com/Conchylicultor/DeepQA",
+        "description": "My tensorflow implementation of \"A neural conversational model\", a Deep learning based chatbot",
+        "topics": [
+            "chatbot",
+            "deep-learning",
+            "tensorflow",
+            "seq2seq"
+        ],
+        "owner": "https://github.com/Conchylicultor"
+    },
+    {
+        "full_name": "ThoughtfulDev/EagleEye",
+        "stars": 4890,
+        "svn_url": "https://github.com/ThoughtfulDev/EagleEye",
+        "description": "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.",
+        "topics": [
+            "python3",
+            "machine-learning",
+            "face-recognition",
+            "social-media",
+            "stalking"
+        ],
+        "owner": "https://github.com/ThoughtfulDev"
+    },
+    {
+        "full_name": "m-bain/whisperX",
+        "stars": 17674,
+        "svn_url": "https://github.com/m-bain/whisperX",
+        "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+        "topics": [
+            "asr",
+            "speech",
+            "speech-recognition",
+            "speech-to-text",
+            "whisper"
+        ],
+        "owner": "https://github.com/m-bain"
+    },
+    {
+        "full_name": "NVIDIA-NeMo/NeMo",
+        "stars": 15650,
+        "svn_url": "https://github.com/NVIDIA-NeMo/NeMo",
+        "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+        "topics": [
+            "machine-translation",
+            "speaker-recognition",
+            "asr",
+            "tts",
+            "generative-ai",
+            "multimodal",
+            "deeplearning",
+            "neural-networks",
+            "speaker-diariazation",
+            "speech-translation",
+            "speech-synthesis",
+            "large-language-models"
+        ],
+        "owner": "https://github.com/NVIDIA-NeMo"
+    },
+    {
+        "full_name": "modelscope/FunASR",
+        "stars": 12525,
+        "svn_url": "https://github.com/modelscope/FunASR",
+        "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+        "topics": [
+            "conformer",
+            "pytorch",
+            "speech-recognition",
+            "paraformer",
+            "punctuation",
+            "speaker-diarization",
+            "rnnt",
+            "audio-visual-speech-recognition",
+            "pretrained-model",
+            "voice-activity-detection",
+            "whisper",
+            "dfsmn",
+            "vad",
+            "speechgpt",
+            "speechllm"
+        ],
+        "owner": "https://github.com/modelscope"
+    },
+    {
+        "full_name": "xorbitsai/inference",
+        "stars": 8505,
+        "svn_url": "https://github.com/xorbitsai/inference",
+        "description": "Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.",
+        "topics": [
+            "ggml",
+            "pytorch",
+            "chatglm",
+            "deployment",
+            "flan-t5",
+            "llm",
+            "wizardlm",
+            "artificial-intelligence",
+            "machine-learning",
+            "whisper",
+            "inference",
+            "openai-api",
+            "mistral",
+            "gemma",
+            "llama",
+            "llamacpp",
+            "vllm",
+            "qwen",
+            "llama3",
+            "glm4"
+        ],
+        "owner": "https://github.com/xorbitsai"
+    },
+    {
+        "full_name": "nl8590687/ASRT_SpeechRecognition",
+        "stars": 8222,
+        "svn_url": "https://github.com/nl8590687/ASRT_SpeechRecognition",
+        "description": "A Deep-Learning-Based Chinese Speech Recognition System \u57fa\u4e8e\u6df1\u5ea6\u5b66\u4e60\u7684\u4e2d\u6587\u8bed\u97f3\u8bc6\u522b\u7cfb\u7edf",
+        "topics": [
+            "tensorflow",
+            "cnn",
+            "ctc",
+            "python",
+            "keras",
+            "speech-recognition",
+            "speech-to-text",
+            "chinese-speech-recognition",
+            "asrt",
+            "python3"
+        ],
+        "owner": "https://github.com/nl8590687"
+    },
+    {
+        "full_name": "modelscope/FunClip",
+        "stars": 4954,
+        "svn_url": "https://github.com/modelscope/FunClip",
+        "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.",
+        "topics": [
+            "speech-recognition",
+            "video-clip",
+            "video-subtitles",
+            "subtitles-generator",
+            "speech-to-text",
+            "gradio",
+            "gradio-python-llm",
+            "llm"
+        ],
+        "owner": "https://github.com/modelscope"
+    },
+    {
+        "full_name": "wenet-e2e/wenet",
+        "stars": 4786,
+        "svn_url": "https://github.com/wenet-e2e/wenet",
+        "description": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
+        "topics": [
+            "e2e-models",
+            "pytorch",
+            "asr",
+            "transformer",
+            "conformer",
+            "production-ready",
+            "automatic-speech-recognition",
+            "speech-recognition",
+            "whisper"
+        ],
+        "owner": "https://github.com/wenet-e2e"
+    },
+    {
+        "full_name": "zzw922cn/Automatic_Speech_Recognition",
+        "stars": 2843,
+        "svn_url": "https://github.com/zzw922cn/Automatic_Speech_Recognition",
+        "description": "End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow ",
+        "topics": [
+            "automatic-speech-recognition",
+            "tensorflow",
+            "timit-dataset",
+            "feature-vector",
+            "phonemes",
+            "data-preprocessing",
+            "rnn",
+            "audio",
+            "deep-learning",
+            "lstm",
+            "end-to-end",
+            "cnn",
+            "rnn-encoder-decoder",
+            "evaluation",
+            "paper",
+            "speech-recognition",
+            "layer-normalization",
+            "chinese-speech-recognition"
+        ],
+        "owner": "https://github.com/zzw922cn"
+    },
+    {
+        "full_name": "pannous/tensorflow-speech-recognition",
+        "stars": 2173,
+        "svn_url": "https://github.com/pannous/tensorflow-speech-recognition",
+        "description": "\ud83c\udf99Speech recognition using the tensorflow deep learning framework, sequence-to-sequence neural networks",
+        "topics": [
+            "tensorflow",
+            "speech-recognition",
+            "neural-network",
+            "deep-learning",
+            "stt",
+            "speech-to-text"
+        ],
+        "owner": "https://github.com/pannous"
+    },
+    {
+        "full_name": "deepchem/deepchem",
+        "stars": 6195,
+        "svn_url": "https://github.com/deepchem/deepchem",
+        "description": "Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology",
+        "topics": [
+            "drug-discovery",
+            "quantum-chemistry",
+            "deep-learning",
+            "biology",
+            "materials-science",
+            "hacktoberfest"
+        ],
+        "owner": "https://github.com/deepchem"
+    }
+]
